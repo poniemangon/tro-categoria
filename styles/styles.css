@@ -234,6 +234,7 @@ margin-bottom: 20px;
 @media (max-width: 1250px){
     .cards .misc {display: none;}
     .cards .card .background-radius {margin-bottom: 8px;}
+    .cards .card .background-radius img {margin: auto}
     .cards .texts {row-gap: 8px;}
 }
 
